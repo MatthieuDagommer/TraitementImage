@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1546847180 source:d:\matthieu\utt\scolarité\tc03\nf05\projetnf05\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<math.h>
+
